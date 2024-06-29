@@ -84,8 +84,8 @@ class _ImageCarouselState extends State<ImageCarousel> {
             children: _images.map((image) {
               int index = _images.indexOf(image);
               return Container(
-                width: 8,
-                height: 8,
+                width: 20,
+                height: 20,
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 2.0),
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
