@@ -10,3 +10,6 @@
 | ImageCarousel                              | 图片轮播                                                     |
 
 #demo截图
+
+<img src="./demo/DraggableScrollbar.gif" width="800"/>
+<img src="./demo/ImageCarousel.gif" width="320"/>
