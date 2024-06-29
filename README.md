@@ -8,8 +8,11 @@
 | ------------------------------------------ | ------------------------------------------------------------ |
 | DraggableScrollbar                         | 基于当下流行app（微信）实现的可拖动的滚动条                   |
 | ImageCarousel                              | 图片轮播                                                     |
+| RefreshPage                                | 下拉刷新                                                     |
 
 #demo截图
 
+DraggableScrollbar 
+
 <img src="./demo/DraggableScrollbar.gif" width="800"/>
-<img src="./demo/ImageCarousel.gif" width="320"/>
+
