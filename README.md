@@ -12,7 +12,17 @@
 
 #demo截图
 
-DraggableScrollbar 
 
-<img src="./demo/DraggableScrollbar.gif" width="800"/>
 
+微信同款滚动条
+
+<img src="./demo/DraggableScrollbar.gif" width="600"/>
+
+
+图片轮播（gif太大，用图片替换(ノ｀Д)ノ）
+
+<img src="./demo/imagecarousel.png" width="400">
+
+下拉刷新（下拉页面顶部会有圆圈提醒进度）
+
+<img src="./demo/refresh.png" width="400">
