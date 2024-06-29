@@ -36,7 +36,7 @@ class _ImageCarouselState extends State<ImageCarousel> {
   @override
   void initState() {
     super.initState();
-    _timer = Timer.periodic(Duration(seconds: 3), (Timer timer) {
+    _timer = Timer.periodic(Duration(seconds: 2), (Timer timer) {
       if (_currentPage < _images.length - 1) {
         _currentPage++;
       } else {
