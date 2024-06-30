@@ -9,8 +9,9 @@
 | DraggableScrollbar                         | 基于当下流行app（微信）实现的可拖动的滚动条                   |
 | ImageCarousel                              | 图片轮播                                                     |
 | RefreshPage                                | 下拉刷新                                                     |
+| RefreshAndLoadmore                         | 底部上拉加载更多                                             |
 
-#demo截图
+#组件运行的截图
 
 
 
@@ -26,3 +27,7 @@
 下拉刷新（下拉页面顶部会有圆圈提醒进度）
 
 <img src="./demo/refresh.png" width="400">
+
+上拉加载更多
+
+<img src="./demo/loadmore.png" width="400">
