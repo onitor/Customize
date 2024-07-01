@@ -10,6 +10,7 @@
 | ImageCarousel                              | 图片轮播                                                     |
 | RefreshPage                                | 下拉刷新                                                     |
 | RefreshAndLoadmore                         | 底部上拉加载更多                                             |
+| PageTransition                             | 页面滑动效果（包含滑动过度、淡入淡出过渡、缩放过渡 ）         |
 
 #组件运行的截图
 
